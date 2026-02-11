@@ -120,7 +120,7 @@ export default function Home() {
             </h2>
             <div className="bg-white p-6 rounded-2xl shadow-sm border border-stone-100 space-y-4">
               <p className="leading-relaxed text-stone-700">
-                たいへん安くてボリューミーなお店です。「女子多め。質より量」と伝えておりますが、多分ボリューミーです。
+                たいへん安くてボリューミーなお店です。「女子多め。量より質」と伝えておりますが、多分ボリューミーです。
               </p>
               <div className="flex items-start gap-2 text-stone-600 text-sm bg-orange-50 p-3 rounded-lg">
                 <AlertCircle className="w-5 h-5 text-orange-500 shrink-0" />
