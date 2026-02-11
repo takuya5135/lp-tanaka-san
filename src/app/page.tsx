@@ -41,6 +41,13 @@ export default function Home() {
               <MapPin className="w-6 h-6" />
             </div>
             <h3 className="font-bold text-lg">場所</h3>
+            <div className="w-full aspect-video relative rounded-lg overflow-hidden border border-stone-200">
+              <img
+                src="/pit-in-55.jpg"
+                alt="Pit Inn 55 Exterior"
+                className="object-cover w-full h-full"
+              />
+            </div>
             <p className="text-stone-600">
               <a href="https://tabelog.com/hyogo/A2803/A280301/28018978/" target="_blank" rel="noreferrer" className="underline hover:text-blue-600 transition-colors">
                 ピットイン55
@@ -127,8 +134,12 @@ export default function Home() {
               <Gift className="w-6 h-6" /> プレゼント
             </h2>
             <div className="bg-white p-6 rounded-2xl shadow-sm border border-stone-100 flex flex-col items-center text-center justify-center min-h-[200px]">
-              <div className="w-16 h-16 bg-pink-100 text-pink-500 rounded-full flex items-center justify-center mb-4">
-                <Gift className="w-8 h-8" />
+              <div className="w-48 h-auto mb-4 rounded-xl overflow-hidden border border-stone-100 shadow-sm">
+                <img
+                  src="/whisky-bottle.png"
+                  alt="Sakurao Whisky Bottle"
+                  className="w-full h-auto object-contain"
+                />
               </div>
               <h3 className="font-bold text-lg mb-2">桜尾ウイスキー</h3>
               <p className="text-stone-600">オリジナルボトルを用意しています。</p>
