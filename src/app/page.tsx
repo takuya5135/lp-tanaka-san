@@ -149,7 +149,7 @@ export default function Home() {
                 />
               </div>
               <h3 className="font-bold text-lg mb-2">桜尾ウイスキー</h3>
-              <p className="text-stone-600">オリジナルボトルを用意しています。</p>
+              <p className="text-stone-600">一同から田中さんへのプレゼントとして、オリジナル名入れボトルを用意しています。</p>
             </div>
           </section>
         </div>
