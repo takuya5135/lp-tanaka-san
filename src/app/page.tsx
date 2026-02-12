@@ -128,7 +128,7 @@ export default function Home() {
               </div>
               <div className="mt-4 rounded-xl overflow-hidden border border-stone-100 shadow-sm">
                 <img
-                  src="/takeout-illustration.png"
+                  src="/takeout-illustration.jpg"
                   alt="Takeout Illustration"
                   className="w-full h-auto object-cover"
                 />
