@@ -126,6 +126,13 @@ export default function Home() {
                 <AlertCircle className="w-5 h-5 text-orange-500 shrink-0" />
                 <p>食べきれないものは持ち帰りできるように話しておりますので、無理せず残してテイクアウトしてください。</p>
               </div>
+              <div className="mt-4 rounded-xl overflow-hidden border border-stone-100 shadow-sm">
+                <img
+                  src="/takeout-illustration.png"
+                  alt="Takeout Illustration"
+                  className="w-full h-auto object-cover"
+                />
+              </div>
             </div>
           </section>
 
